@@ -1,5 +1,9 @@
 # nas-smb-cli
 
+**A NAS SMB file management CLI: browse, upload, download and organize files with fully env-var-based config.**
+
+NAS SMB 文件管理 CLI：浏览、上传、下载、整理，配置全环境变量化。
+
 English | [简体中文](README.md)
 
 A NAS SMB file management CLI built on [smbprotocol](https://github.com/jborean93/smbprotocol), designed for both terminal users and AI agents. No network drive mounting required — browse, transfer, and manage files on your NAS share directly from the command line.

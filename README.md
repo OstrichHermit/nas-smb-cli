@@ -1,5 +1,9 @@
 # nas-smb-cli
 
+**NAS SMB 文件管理 CLI：浏览、上传、下载、整理，配置全环境变量化。**
+
+A NAS SMB file management CLI: browse, upload, download and organize files with fully env-var-based config.
+
 [English](README_EN.md) | 简体中文
 
 NAS SMB 文件管理 CLI，基于 [smbprotocol](https://github.com/jborean93/smbprotocol) 实现，面向终端用户与 AI agent。无需挂载网络盘，直接在命令行浏览、传输和管理 NAS 共享中的文件。
